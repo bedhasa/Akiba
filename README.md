@@ -2,8 +2,8 @@
 
 ## Student Information
 
-- Name: Your name
-- GitHub Username: Your username
+- Name: Bedasa Negash
+- GitHub Username: bedhasa
 - Bootcamp: Akiba Technologies Software Engineering & Backend Bootcamp
 - Week: 1
 
